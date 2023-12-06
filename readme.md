@@ -76,7 +76,7 @@ críticas para os operadores.
 
 <figure id="fig:logic_diagram">
 <span class="image placeholder"
-data-original-image-src="./logic_diagram.png"
+data-original-image-src="logic_diagram.png"
 data-original-image-title="" width="90%"></span>
 <figcaption>Diagrama Lógico do Software de Automação</figcaption>
 </figure>
